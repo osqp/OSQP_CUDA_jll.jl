@@ -1,9 +1,10 @@
 [[OSQP_CUDA]]
 arch = "x86_64"
-git-tree-sha1 = "6da68a9f4291668d43391a5bcf10ba05a6beb79b"
+git-tree-sha1 = "484564715120184b43046a64dafe4f1f8b623528"
+lazy = true
 libc = "glibc"
 os = "linux"
 
     [[OSQP_CUDA.download]]
-    sha256 = "1739718929def19c7c4f7efe7b4a5a609521851269a8c1e137720196f672d24f"
+    sha256 = "8d145abd13b38310765edbaefd13447ad47bdb3ea5795b9a4b196a7b68b9c8fb"
     url = "https://github.com/osqp/OSQP_CUDA_jll.jl/releases/download/OSQP_CUDA-v100.0.0+0/OSQP_CUDA.v100.0.0.x86_64-linux-gnu.tar.gz"
