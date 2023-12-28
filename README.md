@@ -16,7 +16,7 @@ The tarballs for `OSQP_CUDA_jll.jl` have been built from these sources:
 
 `OSQP_CUDA_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cuda=11.4, cxxstring_abi=cxx03, libc=glibc}` (`x86_64-linux-gnu-cxx03-cuda+11.4`)
+* `Linux x86_64 {cuda=11.4, cxxstring_abi=cxx11, libc=glibc}` (`x86_64-linux-gnu-cxx11-cuda+11.4`)
 
 ## Dependencies
 
